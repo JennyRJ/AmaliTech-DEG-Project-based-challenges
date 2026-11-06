@@ -8,13 +8,13 @@ This project analyses a 500,000-row sample of the Open Food Facts dataset to ide
 
 ## B. Project Links
 
-Notebook: [Add notebook link]
+Notebook: (https://github.com/JennyRJ/AmaliTech-DEG-Project-based-challenges/blob/main/data-engineering/The-Market-Gap-Analysis-main/notebooks/01_Sugar_Trap_Analysis.ipynb)
 
-Dashboard: [Add public dashboard link]
+Dashboard: (https://amalitech-deg-project-based-challenges-k2mi4rbk88czxcitfskdm3.streamlit.app/)
 
-Presentation: [Add public presentation PDF/PPT link]
+Presentation: (https://github.com/JennyRJ/AmaliTech-DEG-Project-based-challenges/blob/main/data-engineering/The-Market-Gap-Analysis-main/presentation/Sugar_Trap_Market_Gap_Presentation.pdf)
 
-Optional Video Walkthrough: [Add YouTube link]
+Optional Video Walkthrough: N/A
 
 ---
 
